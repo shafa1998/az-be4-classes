@@ -1,0 +1,18 @@
+Morning Classes Tuesday  = 8:30 - 14:30
+Morning Classes Thursday = 8:30 - 14:30
+Morning Classes Saturday = 9:30 - 15:30
+
+10 min break every hour
+20 min break every 2 hours
+
+8:30 - 9:20 (0:50)
+0:10
+9:30 - 10:10 (0:40)
+0:20
+10:30 - 11:20 (0:50)
+0:10
+11:30 - 12:10 (0:40)
+0:20
+12:30 - 13:20 (0:50)
+0:10
+13:30 - 14:30 (1:00)
