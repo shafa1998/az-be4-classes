@@ -1,7 +1,7 @@
 The Warmup Tasks:
 -----------------
 
-1. create Java console application
+1. create Java console application, which:
   - prints "Hello, what is your name?"
   - expects for user input ($name)
   - prints "Hello, $name!"
